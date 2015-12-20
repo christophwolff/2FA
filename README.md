@@ -3,14 +3,14 @@
 ## Überblick
 
 * Funktionalität
-* Wordpress
+* WordPress
 * Apps für Android und iPhone
 
 
 > https://en.wikipedia.org/wiki/Google_Authenticator
 
 ## Funktionalität
-Die Wordpress Login Maske wird um ein drittes Eingabefeld erweitert. Dort wird ein Time Based One Time Passwort (TOTP) für eine zusätzliche Kontrolle eingegeben. Dieses TOTP wird mittels App berechnet.
+Die WordPress Login Maske wird um ein drittes Eingabefeld erweitert. Dort wird ein Time Based One Time Passwort (TOTP) für eine zusätzliche Kontrolle eingegeben. Dieses TOTP wird mittels App berechnet.
 
 ![OTP1 logo](http://christophwolff.de/br/screenshots/OTP1.png)
 
@@ -45,7 +45,7 @@ iOS:
 
 [Google Authenticator (AppStore)] (https://itunes.apple.com/en/app/google-authenticator/id388497605?mt=8) | [http://bit.ly/google-auth-ios](http://bit.ly/google-auth-ios)
 
-In der App kann entweder über einen Barcode Scanner der *QR-Code* eingescannt oder der *Secret* eingegeben werden. Dieses Verbindet die App über den Zeitgesteuerten Algorthmus mit dem Wordpress CMS. 
+In der App kann entweder über einen Barcode Scanner der *QR-Code* eingescannt oder der *Secret* eingegeben werden. Dieses Verbindet die App über den Zeitgesteuerten Algorthmus mit dem WordPress CMS. 
 
 <figure>
 <img style="width:50%;float: none;" src="http://christophwolff.de/br/screenshots/gaimage.jpg">
