@@ -48,7 +48,7 @@ iOS:
 In der App kann entweder über einen Barcode Scanner der *QR-Code* eingescannt oder der *Secret* eingegeben werden. Dieses Verbindet die App über den Zeitgesteuerten Algorthmus mit dem WordPress CMS. 
 
 <figure>
-<img style="width:50%;float: none;" src="http://christophwolff.de/br/screenshots/gaimage.jpg">
+<img style="width:50%;float: none;" src="http://christophwolff.de/br/screenshots/gaimage_ls.jpg">
 <figure-caption>Das TOTP ist nur für ein paar Sek. gültig</figure-caption>
 </figure>
 
