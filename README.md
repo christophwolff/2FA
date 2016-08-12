@@ -8,6 +8,7 @@
 
 
 > https://en.wikipedia.org/wiki/Google_Authenticator
+> https://de.wordpress.org/plugins/wp-google-authenticator/
 
 ## Funktionalität
 Die WordPress Login Maske wird um ein drittes Eingabefeld erweitert. Dort wird ein Time Based One Time Passwort (TOTP) für eine zusätzliche Kontrolle eingegeben. Dieses TOTP wird mittels App berechnet.
